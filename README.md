@@ -1,7 +1,7 @@
 ## Hi there 👋, My name is Andrzej Brodowicz 
 
 - 🌱 I’m currently learning REACT
-- 🔭 I’m currently working on e-store clothing app [See repo](https://github.com/andbroz/crownClothing-eShop)
+- 🔭 I’m currently working on e-store clothing app named crownClothing-eShop [See repo](https://github.com/andbroz/crownClothing-eShop)
 
 <!--
 **andbroz/andbroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
