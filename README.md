@@ -1,7 +1,7 @@
 ## Hi there 👋, My name is Andrzej Brodowicz 
 
 - 🌱 I’m Full Stack Web developer
-- 🍒 My Stack is JavaScript | REACT | Nodejs | PostgeSQL | MongoDB
+- 🍒 My Stack is JavaScript/TypeScript | REACT | Nodejs | PostgeSQL | MongoDB
 
 
 <!--
