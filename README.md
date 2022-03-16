@@ -2,6 +2,7 @@
 
 - 🌱 I’m Full Stack Web developer
 - 🍒 My Stack is JavaScript/TypeScript | REACT | Nodejs | PostgeSQL | MongoDB
+- 🔥 Learning Angular
 
 
 <!--
