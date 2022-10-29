@@ -3,7 +3,7 @@
 - 🌱 I’m Front End Web Developer
 ### 🍒 Technology Stack
  - **Languages:**
- 		- Typescript,
+   - Typescript,
   	- JavaScipt,
  - **FE Frameworks:** React, Angular 13
  - **Runtime:** Node.js, Deno
