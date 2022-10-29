@@ -1,7 +1,9 @@
-## Hi there 👋, My name is Andrzej Brodowicz 
+# Hello Traveler!, I am Andrzej and welcome to my Github Profile.
 
-- 🌱 I’m Front End Web Developer
-### 🍒 Technology Stack
+## About me:
+- ⚛ I’m Front End Web Developer
+
+### 🐱‍💻 What I use as software engineer: 
  - **Languages:**
    - Typescript,
   	- JavaScipt,
@@ -14,7 +16,7 @@
  - **Cloud**: 
   	- **Azure**: Azure Web Apps, Azure Repos 
 
-### 🔥  Want to learn:
+### 🔥  I am really keen to lern below stuff:
  - Tailwind CSS
  - Next.js
  - Prisma
