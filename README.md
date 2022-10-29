@@ -1,7 +1,7 @@
 # Hello Traveler! I am Andrzej and welcome to my Github Profile.
 
 ## About me:
-- ⚛ I’m Front End Web Developer
+⚛ I’m Front End Web Developer
 
 ### 🐱‍💻 What I use as software engineer: 
  - **Languages:**
@@ -16,7 +16,7 @@
  - **Cloud**: 
   	- **Azure**: Azure Web Apps, Azure Repos 
 
-### 🔥  I am really keen to lern below stuff:
+### 🔥 I am eager to learn below stuff:
  - Tailwind CSS
  - Next.js
  - Prisma
