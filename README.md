@@ -1,4 +1,4 @@
-# Hello Traveler!, I am Andrzej and welcome to my Github Profile.
+# Hello Traveler! I am Andrzej and welcome to my Github Profile.
 
 ## About me:
 - ⚛ I’m Front End Web Developer
