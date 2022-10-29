@@ -1,13 +1,27 @@
 ## Hi there 👋, My name is Andrzej Brodowicz 
 
 - 🌱 I’m Front End Web Developer
-- 🍒 Tech Stack: React, Typescript, JavaScipt, Node, Redux toolkit, Angular 13, RxJS, React Query, Formik,  
+### 🍒 
+ - Languages:
+  - Typescript,
+  - JavaScipt,
+ - FE Frameworks: React, Angular 13
+ - Runtime: Node.js, Deno
+ - Libs: React Router, Redux, React Query, Formik...
+ - Testing: Jest, React Testing Library, Karma, Jasmine, Istanbul, TDD
+ - Styling: CSS, SCSS, CSS-in-JS ( Styled-components, Emotion)
+ - Tooling: VSCode, ESlint, Prettier, Docker,
+ - Cloud: 
+  - Azure: Azure Web Apps, Azure Repos 
+
 ### 🔥  Want to learn:
  - Tailwind CSS
  - Next.js
  - Prisma
  - tRPC
- - Remix Run  
+ - Remix Run 
+ - C# + ASP.NET
+ - Domain Driven Design 
 
 
 <!--
