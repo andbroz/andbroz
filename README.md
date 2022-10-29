@@ -1,8 +1,13 @@
 ## Hi there 👋, My name is Andrzej Brodowicz 
 
-- 🌱 I’m Full Stack Web developer
-- 🍒 My Stack is JavaScript/TypeScript | REACT | Nodejs | PostgeSQL | MongoDB
-- 🔥 Learning Angular
+- 🌱 I’m Front End Web Developer
+- 🍒 Tech Stack: React, Typescript, JavaScipt, Node, Redux toolkit, Angular 13, RxJS, React Query, Formik,  
+### 🔥  Want to learn:
+ - Tailwind CSS
+ - Next.js
+ - Prisma
+ - tRPC
+ - Remix Run  
 
 
 <!--
